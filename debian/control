@@ -1,0 +1,14 @@
+Source: glabels-schlomo
+Maintainer: Schlomo Schapiro <schlomo+glabels-schlomo@schapiro.org>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Homepage: https://github.com/schlomo/glabels-schlomo
+Build-Depends: debhelper (>= 9) 
+
+Package: glabels-schlomo
+Architecture: all
+Depends: ${misc:Depends}, glabels
+Description: gLabels Templates maintained by Schlomo
+ Template definitions for all the labels I use. 
+ This package spares me to copy them around manually.

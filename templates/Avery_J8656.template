@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Glabels-templates xmlns="http://glabels.org/xmlns/3.0/">
+  <Template brand="Avery" part="J8656" size="A4" description="Mini Labels 46x11,1">
+    <Label-rectangle id="0" width="46mm" height="11.1mm" round="2mm" x_waste="0mm" y_waste="0mm">
+      <Markup-margin size="2mm"/>
+      <Layout nx="4" ny="21" x0="6.5mm" y0="16mm" dx="50.7mm" dy="12.7mm"/>
+    </Label-rectangle>
+  </Template>
+</Glabels-templates>
